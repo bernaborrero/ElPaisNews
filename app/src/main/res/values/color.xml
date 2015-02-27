@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#303f9f</color>
+    <color name="theme_primary_dark">#5c6bc0</color>
+    <color name="theme_accent">#c5cae9</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <!-- Blue shades -->
+    <color name="blue_dark">#0018d0</color>
+    <color name="blue_normal">#5569ff</color>
+    <color name="blue_light">#909dff</color>
+    
+</resources>

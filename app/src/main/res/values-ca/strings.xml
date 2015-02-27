@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El País Notícies</string>
+
+    <!-- Sections -->
+    <string name="title_section_headlines">Portada</string>
+    <string name="title_section_spain">Espanya</string>
+    <string name="title_section_europe">Europa</string>
+    <string name="title_section_world">Món</string>
+
+    <!-- Waiting -->
+    <string name="loading">Carregant</string>
+    <string name="please_wait">Si us plau, esperi un segon…</string>
+
+    <!-- Errors -->
+    <string name="no_items">No hi ha notícies...</string>
+    <string name="error">Error</string>
+    <string name="xml_malformed">S\'ha produït un error. Disculpi les inconveniències.</string>
+
+    <!-- Menu -->
+    <string name="refresh">Actualitzar</string>
+    <string name="title_activity_detail">Notícia</string>
+    <string name="share">Compartir</string>
+
+    <!-- Detail -->
+    <string name="read_more">Llegir més:</string>
+
+</resources>

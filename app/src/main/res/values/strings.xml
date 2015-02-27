@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El País News</string>
+
+    <!-- Sections -->
+    <string name="title_section_headlines">Headlines</string>
+    <string name="title_section_spain">Spain</string>
+    <string name="title_section_europe">Europe</string>
+    <string name="title_section_world">World</string>
+
+    <!-- Waiting -->
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please, wait a moment…</string>
+
+    <!-- Errors -->
+    <string name="no_items">There are no news...</string>
+    <string name="error">Error</string>
+    <string name="xml_malformed">There has been an error. Sorry for the inconveniences.</string>
+
+    <!-- Menu -->
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_detail">New</string>
+    <string name="share">Share</string>
+
+    <!-- Detail -->
+    <string name="read_more">Read more:</string>
+
+</resources>
